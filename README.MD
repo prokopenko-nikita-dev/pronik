@@ -2,5 +2,10 @@
 
 # <h2 align="center">I want to show you my portfolio website</h2>
 
+## Screenshot of the site:
+![Image alt](image/Screenshot.png)
+
+
 
 ## Link to the website:
+https://prokopenko-nikita-dev.github.io/my_website/
