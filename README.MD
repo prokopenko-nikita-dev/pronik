@@ -8,4 +8,4 @@
 
 
 ## Link to the website:
-https://prokopenko-nikita-dev.github.io/my_website/
+https://prokopenko-nikita-dev.github.io/pronik/
